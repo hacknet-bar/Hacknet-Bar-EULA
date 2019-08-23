@@ -1,6 +1,9 @@
 # Hacknet Bar QQ群聊规定
 # Hacknet Bar QQ Group Rules
 
+欢迎来到Hacknet吧官方交流群！
+
+提问前，请先阅读[Stop Ask Questions The Stupid Ways](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)与[How To Ask Questions The Smart Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 ## 全局
 * ( 1 )除开玩笑外禁止辱骂、诋毁、侮辱他人一切。*(包括但不限于家庭背景、身世、财产状况等)*
 * ( 2 )禁止在未经允许的情况下在本群举行商业活动。
@@ -34,4 +37,4 @@
   
    Hacknet吧吧务组
   
-   2019年8月22日
+   2019年8月23日
